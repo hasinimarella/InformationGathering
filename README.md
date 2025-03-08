@@ -23,7 +23,12 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 WHOIS:
-![Screenshot 2025-03-06 115340](https://github.com/user-attachments/assets/32519f97-fd61-4d4a-9dd1-8332d49e8574)
+
+![image](https://github.com/user-attachments/assets/54c7d73f-5c5c-4cf6-9458-0ee9ab57e2e9)
+
+![image](https://github.com/user-attachments/assets/fd0dfe3b-a447-4468-9b4f-dc8b13b66f8a)
+
+
 
 IP2LOCATION:
 
@@ -31,27 +36,41 @@ IP2LOCATION:
 
 WEB ARCHIVE:
 
-![image](https://github.com/user-attachments/assets/3518d972-5d34-45f9-8a53-c733d600eb0a)
+![image](https://github.com/user-attachments/assets/1aba4765-db91-4a7e-a159-e315e743ad11)
+
+![image](https://github.com/user-attachments/assets/3bb7e61b-1880-4ef8-afc6-86725be217f3)
+
+![image](https://github.com/user-attachments/assets/67c479fc-1404-4b79-a2df-7750a8aaf29f)
+
 
 NMAP:
 
-![nmap](https://github.com/user-attachments/assets/8b3250fa-4139-4a57-b47b-3c077eb4da71)
-
-![nmap sn](https://github.com/user-attachments/assets/b9e13e2a-c704-4266-bf4d-af4420ccd2bb)
+![Screenshot 2025-03-08 141714](https://github.com/user-attachments/assets/fe34d93a-2be7-4552-9e81-b80b0d8b52b6)
 
 
 WHATWEB:
 
-![whatweb](https://github.com/user-attachments/assets/2560f6d5-f452-435e-8b35-c9cb1c46001a)
+![Screenshot 2025-03-08 143326](https://github.com/user-attachments/assets/75b649e5-3bc9-4f93-84ab-7887436fc9db)
+
+![WHATWEB 1](https://github.com/user-attachments/assets/91a7eb0b-3ddb-497e-84b8-ee2876c32ccb)
+
+
+HTTPRINT:
+
+![Screenshot 2025-03-08 144357](https://github.com/user-attachments/assets/aff06d39-0731-4371-aa5a-71916e17b389)
+
+
 
 TRACEROUTE:
 
-![tracet](https://github.com/user-attachments/assets/2acde751-c751-4c14-8850-548b866b2ae9)
+![Screenshot 2025-03-08 143710](https://github.com/user-attachments/assets/85b0579e-c7d6-49ed-86ca-3a2f12e6b64a)
 
-ip addr show:
-![ip addr](https://github.com/user-attachments/assets/e4bc40e8-13b1-44d0-8d78-c0cc38b18f79)
+![Screenshot 2025-03-08 143823](https://github.com/user-attachments/assets/77d78662-3481-4da2-8b0f-75ea5434bf85)
 
-![ip addr](https://github.com/user-attachments/assets/186a0663-5f59-49f2-935f-b5da01aa939b)
+![Screenshot 2025-03-08 143944](https://github.com/user-attachments/assets/09f74b47-892e-43bf-9eea-03a69c136da3)
+
+
+
 
 
 
